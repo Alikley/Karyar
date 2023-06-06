@@ -1,0 +1,65 @@
+.karyarteam{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgba(0, 152, 74, 0.04);
+  height: 3500px;
+    .text h1{
+    padding: 80px 0px 0px 160vh;
+  }
+  .text img{
+    transform: translateY(-50px) translateX(48vh);
+  }
+  .box{
+    width: 1320px;
+height: 1150px;
+margin: 0px 13vh 130px;
+top: 233px;
+background: #FFFFFF;
+border-radius: 12px;
+  }
+  .box h1{
+    padding: 90px;
+  }
+  
+  .box .col-1{
+    width: 28%;
+    border-radius: 50%;
+    border: solid 1px #000;
+    margin: 30px 20vh;
+
+  }
+  .box .col-1 h4{
+    text-align: center;
+  }
+  .box2{
+    width: 1320px;
+    height: 800px;
+    margin: 0px 13vh 130px;
+    top: 233px;
+    background: #FFFFFF;
+    border-radius: 12px;
+     }
+     .box2 .col-1{
+      width: 28%;
+      border-radius: 50%;
+      border: solid 1px #000;
+      margin: 30px 20vh;
+  
+    }
+    .box3{
+      width: 1320px;
+      height: 1000px;
+      margin: 0px 13vh;
+      top: 233px;
+      background: #FFFFFF;
+      border-radius: 12px;
+       }
+       .box3 .col-1{
+        width: 28%;
+        border-radius: 50%;
+        border: solid 1px #000;
+        margin: 30px 20vh;
+    
+      }
+}
